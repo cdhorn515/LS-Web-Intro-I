@@ -1,28 +1,37 @@
+.outer-box{
+  background-color: #E9E6E9;
+  height: 1050px;
+  width: 1200px;
+  margin: auto;
+  padding-top: 35px;
+}
+
 .container{
-  background: yellow;
+  background-color: yellow;
+  margin: auto;
   width: 1000px;
   height: 1000px;
-  border-style: solid;
+  border-style: groove;
   border-width: thin;
+  padding: 1px;
 }
 
 .red-box{
-  background: red;
+  background-color: red;
   width: 1000px;
   height: 100px;
 }
 
 .blue-box{
-  background: blue;
-  width: 860px;
+  background-color: blue;
+  width: 760px;
   height: 830px;
-  vertical-align: middle;
   margin: 0 auto;
 }
 
 .green-box{
-  background: green;
-  width: 860px;
+  background-color: green;
+  width: 760px;
   height: 70px;
   margin: 0 auto;
 }
