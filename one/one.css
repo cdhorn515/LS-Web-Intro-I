@@ -7,7 +7,7 @@
 }
 
 .container{
-  background-color: yellow;
+  background-color: white;
   margin: auto;
   width: 1000px;
   height: 1000px;
@@ -22,16 +22,30 @@
   height: 100px;
 }
 
+.l-yellow{
+  background-color: yellow;
+  width: 120px;
+  height: 900px;
+  float: left;
+}
+
+.r-yellow{
+  background-color: yellow;
+  width: 120px;
+  height: 900px;
+  float: right;
+}
+
 .blue-box{
   background-color: blue;
   width: 760px;
   height: 830px;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .green-box{
   background-color: green;
   width: 760px;
   height: 70px;
-  margin: 0 auto;
+  margin: auto;
 }
